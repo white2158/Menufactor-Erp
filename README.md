@@ -1,2 +1,1 @@
-# Menufactor-Erp
-Manufacturer Erp for Any Business
+abg-inventory-system
